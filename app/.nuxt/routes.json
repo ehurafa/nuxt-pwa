@@ -1,0 +1,16 @@
+[
+  {
+    "name": "fun",
+    "path": "/fun",
+    "component": "C:\\\\PROJETOS\\\\nuxt-pwa\\\\app\\\\pages\\\\fun.vue",
+    "chunkName": "pages/fun",
+    "_name": "_2ab899a7"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\PROJETOS\\\\nuxt-pwa\\\\app\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_dd13610c"
+  }
+]
